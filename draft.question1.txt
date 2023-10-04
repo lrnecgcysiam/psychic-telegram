@@ -96,6 +96,8 @@ A PhD in computer science doesn't operate in isolation. Collaborations with expe
 
 In conclusion, computer science PhD candidates and academics possess the unique skills and knowledge to drive profound social change through the world of gaming. The fusion of technical expertise and a passion for impact is reshaping the landscape of both computer science research and the gaming industry. As scientific minds continue to explore this frontier of innovation and advocacy, the potential for positive global change is boundless. The world is waiting for the next wave of game-changing impact. I want to be apart of that social change in hopes to also inspire the future.
 
+Cultivating a path towards Social Change Through Game Development
+
 I envision my future career as deeply rooted in computer science and the development of serious games. My research focuses on harnessing the potential of games to help people solve real-world problems, much like traditional video games have offered relaxation and entertainment. I draw inspiration from organizations like "Block by Block," which uses games like Minecraft to engage communities in designing real-world solutions through visual representations.
 
 My passion lies in the first principles of problem-solving, emphasizing the importance of breaking down complex challenges into manageable pieces. I aspire to lay this foundation for my research, creating games that guide individuals in problem-solving through incremental steps rather than attempting to address issues in one sweeping gesture.
@@ -107,3 +109,15 @@ I intend to employ a paper prototype approach to game design, utilizing physical
 My belief in the versatility of a computer science degree and its applicability across various industries underscores my commitment to using technology to address societal issues. Urbanization, in particular, is a problem I wish to tackle through the unifying power of gaming, aiming to find solutions to challenges like displacement and homelessness.
 
  I see my future career as an opportunity to leverage my computer science skills to create serious games that foster social change and bring communities together. I aspire to break down complex problems into manageable steps, build visual models, and ultimately contribute to making the world a better place through the transformative potential of gaming.
+
+Fostering Meaningful Change Through Technology: A vision for the future.
+
+In conclusion, my commitment to my chosen career path is deeply rooted in the years I've spent working in software development. I firmly believe in the symbiotic relationship between society and technology. By harnessing technology's strengths and addressing its weaknesses, we can drive meaningful social change.
+
+One of my primary goals is to inspire and involve young people, especially in the fields of computer science and STEM. I see the potential for them to find purpose and impact in these disciplines. To achieve this, I plan to leverage open-source projects and existing games as examples for problem-solving and storytelling.
+
+However, I recognize the challenge of teaching and promoting these concepts efficiently, without overwhelming individuals. Time management is an issue I grapple with, as there's so much I want to accomplish. This essay is a way for me to organize my thoughts and share a message of possibility.
+
+I'm not content with just a job that gets me by; I aim to find meaning in what I do and help others see the same potential for transformation in their lives. I believe that through the thoughtful use of science and technology, coupled with the power of artificial intelligence and machine learning, we can make this vision a reality for many, including those who may not be tech-savvy or who resist technology's dominance.
+
+My approach emphasizes integrating technology into one's life rather than allowing it to dominate. While I'm open to collaboration with companies and organizations, I recognize the need for effective communication and messaging to engage like-minded individuals and institutions in this endeavor. The ultimate goal is to establish a research project or nonprofit entity dedicated to this mission, one that enables individuals to see themselves in new and empowering ways. It's a journey I'm eager to embark on, knowing that together, we can shape a brighter future through the thoughtful application of technology.
