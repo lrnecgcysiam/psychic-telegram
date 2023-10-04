@@ -1,0 +1,82 @@
+Academic and personal background.
+Highlight your academic achievements and relevant coursework.
+My academic achievement stems from graduating with a bachelor's degree in visual communications,
+which is basically graphic design, and I specialize in web design.
+I spent four years working on how to understand design from a fine arts perspective
+in the hopes to be able to work in marketing or programming on the computer, on e-mailing on the internet.
+At that time it was about 2001 to 2005.
+So the internet was still pretty young, and we were using things like jQuery.
+We had web 2.0.
+We had Pork Express, Photoshop, Illustrator, and I had an Apple computer
+where I spent a lot of time learning how to program and using HTML, CSS, and JavaScript.
+It was a very fun time, and also using Adobe Flash to make
+our powerful computer. I was basically using Adobe Flash because I wanted to learn how to build more computers.
+I was using Adobe Flash or Mac or Media Flash so you can learn how to build web applications using a variant of JavaScript.
+This was a very early introduction into my career, and it wasn't enough for me to actually get into physical programming.
+So in 2008 I decided to go back to school and proceed a degree in computer science and engineering.
+I was also focused on information technology, so I had to take some time in learning how to help.
+Just regular professional computer programming, so inheritance, polymorphism, classes, and I generally worked around in the language of Java and Python.
+In school we also did a lot of historical research about how the internet was growing and where we were going to be able to go in the future.
+So my achievements through school was mainly in learning how to learn new things over and over again.
+Over the years the internet was constantly changing and most of the challenges that I actually had was learning how to put these things together.
+As a student it was also very difficult to see where I was going to go in the future because I didn't know where I was going to go and it just didn't make my sense to me.
+In 2011 I was able to get a job working at a company called the National Association for Professional Women where I was able to work on a small team learning how to manage and support the life, the software life cycle for a social network, a very small social network.
+This network was actually for women that were in professional areas of their lives and they wanted to connect with people across the world, mainly across the country.
+So the entire application was built in something called Colfusion which was a product of Adobe and I wasn't familiar with Adobe but I wasn't familiar with Java which was the foundation of Colfusion.
+I had to learn how to do things like create web forms that people would need to fill out in emails or on the website, updating different parts of the application or updating different parts of the database, utilizing MySQL or Microsoft SQL,
+being a jack of all trades of different things was basically I had to understand.
+I had access to Adobe Photoshop, Illustrator, of course, Express and I had to also learn how to do quick reading of JavaScript because it was a lot of JavaScript being used to manage the page, especially when it was bugs and stuff.
+Some of the things that I wish I would have had during that time was maybe a more formal training. I didn't have that much training from an actual, I guess, mentor because the person who was actually running the mentor, the person who was actually
+headed the project, went ahead of the program or the head of the department, he was my, he was the information technology officer.
+So he was like the CTO or the director. He was the IT director of the department.
+So he spent a lot of time managing things like handling how money was handled, you know, because there was a payment system that all the members of the social network had to pay.
+And the payment system was kind of done in-house and there was a lot of shaky things that could have happened.
+For example, charge masks could actually happen if the payment system wasn't set up properly for the members and they would cause them to actually have to ask for a refund because they would either charge multiple times or not charge enough or charge too much or charge at the wrong time.
+And that could cause you to lose your account as a merchant that was basically using this for an online service.
+We also worked, I also spent a lot of time after that working at Brookhaven National Laboratory where in the year of 2013, I spent the about six months working with a team that was working on the light synchrotron, the second version of it that was used to kind of help smash atoms
+and to collect the data from the particles that were basically being created from that.
+My idea or my job in that particular realm was to build out a web GUI to manage all of the data that was coming from this machine.
+So the machine would have an API set up that would, you can utilize JavaScript to kind of receive data and pull data and manage information.
+And it was very interesting because one of the challenges was that it was done in all in jQuery.
+So I didn't have much time to actually learn all of jQuery in that time, but I was able to learn how to wire it up to show some of the people who actually was looking for somebody like me to work in that particular field.
+It was a team of maybe six people, three of them were actually living remotely.
+And it was actually like a research assistant's position.
+After that, I spent another time working at Cuba Vision where I was basically a software developer contractor who worked on a TV guide, a soft web TV guide for cable vision software TV app.
+Their app was available on Apple, iPads, iPhones. It was also on Android devices as well.
+My job was basically to help organize a lot of the logos and information from different channels and make sure that when they were called, that we would actually go ahead and get that data.
+And it would be represented properly on the website or on the web page that would basically be in use.
+And basically, these different ways was consumed from something called, what was it called?
+The application was called, what was it called?
+Well, the application was basically what we would call a content management system.
+Because the data was coming from so many different data points, we used a content management system that was actually redone by a third party or corporation to consume the data and then we would direct that data to the different templates based on that.
+The data business logic that was placed in that particular application.
+The content management system was written in PHP.
+So overall, the application did fairly well doing that.
+And I had to build templates for that particular content management system.
+So knowing how the content management system generated the templates and lowering how to utilize a web framework called like Angular that was very popular at the time to manage those particular applications,
+development systems was great.
+I didn't spend too much time learning how the content management system worked, but we just needed to know how to upload and to turn it on and turn it off.
+And every needed it because in order for us to create these templates and test the templates out, we needed to have access to this content management system.
+I spent about 18 months there and then after that, I moved on to a bank called, well, it doesn't really matter.
+Bank was TD Ameritrade and TD Ameritrade was actually one of the first companies that I worked at where I spent a lot of time having to work with things that wasn't really comfortable with it.
+Several months, we worked on building out a Java based web client that would do pretty much similar to what I was always doing.
+But instead of pulling data from a phone, I mean pulling data from a TV guide, a soft TV guide, it was pulling data from different stock data.
+Stock trading data. So the bank traders or the investment bankers or the traders were actually using this data to kind of put together some sort of,
+it was putting together some sort of web client so that way the traders couldn't kind of rebalance their portfolios utilizing this client rather than having to log in manually and do it through the actual main website.
+A lot of the code that I actually had to use was already done with just about refactoring that code and then making that code work for this particular client.
+One of the frameworks we were using was something called Java FX or Java FX and it was kind of a, it was a very simple framework that allowed you to utilize Java language code,
+but also drag and drop bundles to kind of quickly build out prototypes in Java and then be able to get them to work along with other Java applications.
+Mainly this was done not because of the fact that the Java application was like the best thing but I think that it was the most everybody understood Java enough to work with that.
+So nobody really wanted to have any third-party web HTML 5 applications.
+I spent a lot of time having to learn a little bit more about Java FX and I also spent a little bit learning something about another framework which was called
+It was called
+Java
+Java
+It wasn't JQuery
+I forget the name of the actual framework but it was a framework that was being used and we had to build out different functions with it.
+One of my strategies for like when I had to learn new frameworks or work with something that I didn't really know about was that you had to actually go into the code and have to go through code like line by line and open up how each function works where things work with that and just create a spreadsheet.
+This spreadsheet was helpful because after I was done I was able to share that spreadsheet with other members of the team and get people on that team to see whether or not the functions were working or we had the same reference model of what was actually going on.
+So when it came time to do things like create a Java request, an Ajax request to grab data from a new API call that I knew where all the different pieces were and where other similar functions that were at.
+And then I would just basically piece by piece put together this particular piece of application code and make it work.
+So that was actually one of the fun things about building applications and stuff like that.
+It's about maybe 12 months, 8 to 12 months working with that contract.

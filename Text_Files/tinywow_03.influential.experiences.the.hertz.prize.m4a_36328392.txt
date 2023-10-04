@@ -1,0 +1,45 @@
+In the year of 2017, 2016 to 2017, I worked as a contract software developer for the airline
+called JetBlue.
+We spent a lot of time working in a team of maybe 7 to 8 people and some of them were
+all offshore, meaning that they weren't working at all, if they weren't somewhere else in
+the world.
+And we were putting together a redesign of the public, JetBlue.com, along with that,
+there were some smaller web applications that needed to have, that was being done, but that
+was important to use the building blocks of JetBlue.com as the foundation for building
+out the, for building out the new tools that they were going to be using.
+For example, there was an application that was being used for a lot of the flight attendants
+to share information with the flight crew.
+I mean, sorry, with the actual passengers on the plane, so if they wanted to know the
+next connecting flight or which flights were actually canceled or not, they were able to
+use a tool that would be used on a device such as an iPad or iPhone or some sort of tablet
+device that would be connected to some sort of Wi-Fi connection on the plane and would travel
+all across the plane in the flight attendants' food carts.
+So we spent a lot of time discussing these things, but we had to make a lot of changes
+after we found out that the flight attendant had a whole bunch of ideas what they wanted
+to do and what they didn't want to do, and that was causing a lot of issues on their,
+on our part, because it caused a lot of redesign.
+And using the paper prototype, like I said before, allowed us to kind of make a version
+of this, just utilizing pen and paper, and eventually we had like a mockup that we had
+on the, you know, pictures that we were showing people and how they would, what they actually
+needed to have at their disposal when they were talking with customers in the air.
+After all that was said and done, it made out, it made out as able to, you know, solve
+the problem of getting the application from prototype to, you know, into production in
+like, I think six or seven months.
+And that really came from that particular idea.
+It also came from a web development technique called Scrum, where we kind of, it was a software
+development, it's a software development, life cycle framework that you break down the
+problems into the weekly scrum, weekly tasks and you kind of work on them, and weekly sprints
+or bi-weekly sprints, and everybody has tasks to kind of put these things together.
+As a project developer, I mean, as a project manager, but there's also a scrum master that
+kind of orchestrates how things go and what things go on, but ultimately everybody on the
+team has a voice and enables to kind of put together what they want, you know, to make
+their projects done.
+And then they also, the tasks that they get, basically, they take for each week or they
+also held accountable for that at the end of the week.
+So if there's any problems, they usually have a daily, we have a daily meeting that tells
+us if there's any blockers and stuff, and we kind of move forward that way.
+I like that idea, because it was very transparent.
+It helped us to be able to build out what we wanted and how we want to do, and I felt personally
+that my voice was being heard.
+So I definitely think that this is one of the experiences also that helps me to feel
+I want to continue working toward a project that would help with this particular mindset.

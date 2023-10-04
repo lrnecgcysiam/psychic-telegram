@@ -1,0 +1,65 @@
+Academic and Personal Experiences
+Highlight your academic achievements and relevant coursework
+Mention any spherical activities or projects related to your field
+Share any personal qualities or experiences that align with your career choice
+So at the end of my JetBlue contract, I decided to go ahead and take some time to focus on what I wanted to actually do in the future
+I thought about going ahead and traveling to another country and trying to get a job in another country as a software developer
+But I didn't want to just be working the way I was working the last few years
+I thought I was doing a lot and not getting anywhere
+And that's why I decided I had to go back to school and get myself a master's degree in programming or master's degree in computer science
+Or to find some sort of like research that is actually important to me that I would actually want to be able to do ahead and do
+And in that regard, being a web designer, web programmer, software developer
+Aligned with my desire to always want to learn more
+Learning is always something I learned in this particular career that was important
+And that it was okay to life fail and have to make mistakes and change up things
+Programming taught me a lot about life and how to approach a problem solving it
+It's usually where you break down the problem into smaller pieces and you iterate over and over again until you've actually solved the problem in a way that is suffice
+Or sometimes you can organize the different projects or the different problems into similar lists of information and then recursively solve the problem
+For example, if you have an application that uses HTML, CSS and JavaScript
+Instead of having 20 developers all work on one particular thing, you can have each developer work on a specific part of it
+And they only work on CSS, so they only work on JavaScript, so they only work on understanding how the framework works
+And then they drill those things down until they've actually completed those tasks
+If those tasks that they've done were actually done well and it were clear
+Then you can always share those similar tasks with other people and get other people to work on those tasks
+Because now they will be able to look back at what other people did in the past to help them solve the problem better in the future
+This is where my future career expectations I would like to go ahead and work on
+But I'll continue with working at Bank of America
+Maryland Bank of America was a project that came open up, it was a very small project, it lasted like 3 or 4 months
+It was around May of 2018
+And I was supposed to work on a team of like 2 or 3 people, what we were basically doing was that
+Angular 2 was pretty hot framework and the manager wanted to get the team to learn how to use Angular 2
+And what's looking for me to kind of like work on a team to help get Angular 2 working
+Because I was the only one, I was out of the whole team, I was the one that had the most experience at the time
+Over a year of it
+And the idea was to kind of come up with some sort of web application that was going to be used among a suite of applications
+To get traders to book rooms in the actual office
+So that required us to have the API data from Active Directory
+Where we had all the members of the organization
+And then being able to open up rooms
+And check in and check out and manage the time of the different rooms
+And be able to openly get people to build out their
+Openly get them to build out their
+What would you call it again?
+I get them to build out their
+The application to work where they can book rooms based off of like the time
+And make sure that the person that was booking room can only book one room at a time
+So one of the challenges that actually comes with working in a bank is that you don't have access to data as much quickly
+There's a lot of security checks and change forms you have to fill out to get stuff that's pretty slow
+And that could be frustrating as a developer working there
+You don't know what's going to happen to you as you're working in these places
+You can be in there one day and be out another day, it doesn't really matter
+So I spent a lot of time working with the manager to try to quickly get these things done
+When we had the time a lot of it, sometimes we had to work with teams that wasn't in the office
+They were never building them in the country
+Working late was pretty much very common
+But it wasn't that bad all the time
+I was able to put together what I understood
+And I ended the contract after a couple of months because of the fact that that wasn't the type of way I wanted to do my work
+I liked it more how I was working at JetBlue
+But I realized that my idea is for what I want in my job or my career, my future career
+Is probably going to be something that I'm going to have to build out on my own
+Meaning that I'm going to have to have the experience of building out my own business
+To get things to go where I want to go
+I'm not able to go into somebody else's dream and build out their things for their dream
+And that's one of the things that I want to head
+And I decided to go ahead and do this is the way I'm doing it

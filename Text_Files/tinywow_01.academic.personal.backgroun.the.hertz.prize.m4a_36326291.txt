@@ -1,0 +1,80 @@
+Academic and personal background.
+Highlight your academic achievements and relevant coursework.
+Mention any extracurricular activities or projects related to your field.
+Share any personal qualities or experiences that align with your career choice.
+So, I spent a lot of time working with this company
+that was able to give me contracts, short-term contracts, you know,
+anywhere between six to 18 months doing various different things but in different areas.
+And I found that that was one of my strong points in this particular field
+because what I did was that I didn't come on to the team trying to complete the whole thing.
+But I came on the team understanding a different, a strong way to actually learn something new.
+I understood that as you go through life, you're not always going to be able to do the same thing over and over again.
+If you're going to keep moving and doing different things and having to change
+and transferring the different, particular roles is going to be one of the crucial things
+or most consistent things about your career.
+So, one of my strong points basically would be understanding how to adapt to change.
+And that, adapt to change, came with, at my next particular programming venture was JetBlue Airways.
+In 2017 to 2018, or 2016, I'm sorry, 2016 to 2018, no.
+2016, August 16th, 2016 to November 1st, 2017.
+I worked as a contractor for front-end web development application products at JetBlue Airways.
+I came in originally because I was working with a web framework called Angular 1
+and learning how to turn their corporate website that was built in a variant of Java, jQuery, and handlebars.
+And it was kind of like kind of slapped together in this like, you know, this password, chimeric framework.
+It was everybody that had to keep working on.
+Mainly, this happens a lot in the programming design feature because of the fact that there's too much to get done
+and not enough bandwidth to actually get it done.
+So, the budget would kind of place around to get something done and they'll put the budget for there.
+And then over time, there'd be turnover, people would leave, people would come, they wouldn't get enough time,
+there'd be problems, and you'd attempt to just do the best you can.
+So, this was very, this is very consistent.
+But we were going to work on scrapping that whole thing and working on something brand new.
+So, after I got, after I did the testing, I got into it, I got onto the actual team.
+I was told by my superior, my manager that they were going to do a rewrite of the entire site
+because the other, because the current site was end of life, what they call the EOL end of life.
+And that was because of the fact that they wanted to kind of have something that was clean and fresh
+and they wanted to bring on a whole new team to kind of work on this thing.
+But in order for them to do that, they needed to kind of, you know, fight through a whole bunch of, you know,
+corporate bureaucratic, you know, mind games that really caused these problems, you know,
+where somebody comes in with a new idea, everybody just fights it and doesn't want to really work with it at all.
+And usually just blows up and goes away and nobody really hears about it again.
+So, our team slowly started bringing in a few, four or five people to work with some of the main people's teams.
+My idea was to kind of go in and learn this new framework, which was basically a package of two.
+One was called TypeScript, which is basically, it's basically JavaScript,
+but it uses syntax that's based off of, like, the current ECMAScript paradigm.
+So ECMAScript 2016 is one of the determinologies.
+And what it uses, it uses a strictly typed, it uses a strictly typed programming paradigm
+so that way we can help keep our applications more secure because the type of terminology like JavaScript
+tends to be very difficult of dealing with different data points or different data types not being written properly.
+And the data types have changed because of the fact that that's just how JavaScript is actually is.
+So TypeScript is a way to kind of like make it less dynamically typed and make it more like Java or Python.
+And it was very fun trying to learn how to do the work on this, but it was very frustrating because at the same time,
+this framework is being used.
+There's a new update of the current framework Angular being brought out, which is Angular 2.
+And the company or the organization that is building Angular 2 decides to go ahead and release Angular 2
+in full TypeScript, meaning that in order for you to actually write Angular 2 code within the framework, you need to know TypeScript.
+So it was very fun to do that, but it was actually very difficult because there were some times where we spent weeks building out something
+and then a week or two months later, we had to scrap that and build something else entirely.
+And it was not really productive about our time.
+Our time tended to get really our time was mainly cut short or we felt like we were working against a flock or it just was kind of frustrating in that area.
+But we finally got help from a third party team called Rangle, which the Rangle pretty much said that they will help us,
+you know, do all the heavy lifting and get this stuff done because we couldn't do it ourselves.
+And it was going to cost the company or it was going to cost the project managers or the budget, but it was very expensive.
+And we couldn't get this stuff done without them.
+But we were able to learn a lot about how the application works.
+We were able to see what was actually possible.
+And I was very excited to kind of work in this particular position or in this particular strategy.
+The company was in Canada, so we spent a lot of time flying from New York to Canada for about four weeks.
+And working in these sprint-like methodologies called scrum sprints,
+where basically everybody would just have like all the tasks were trying to be broken down as small as possible.
+And everybody would just try to like add these tasks together until you would actually get the work done.
+And it was kind of difficult to get it done because, you know, there was a lot of problems and stuff.
+But we were able to get enough of it done that we were able to use the project to build out other parts of the project.
+So basically we broke down the application into these building blocks that could be used.
+The same pieces of that were built for the front-ended website could be used for the website, the current, the future website.
+You know, so all the code was reusable.
+And that's one thing you always want to try to do in application development is like you want to have reusable codes.
+You know, code that could be picking out like a like a built like a like a brick.
+And you could use that brick someplace else, you know, you could recycle that data, you could recycle that code and use it someplace else.
+And everybody was able to go ahead and get their pieces out and get their applications going and it was great.
+But in the at the end, there wasn't much there wasn't much left to actually do.
+And I think that I left.
