@@ -1,0 +1,109 @@
+Introduction
+
+I discuss my journey towards choosing the field of computer science and engineering. I express a strong interest in the subject but initially faced challenges due to my lack of a mathematical background, having only completed algebra in high school and moving on to calculus in college. Despite these obstacles, I pursued self-study and tutoring to advance my skills.
+
+Additionally, I describe my divergence into visual communications and graphic design, which helped me maintain my connection to computers through web design and development. I emphasize the importance of computer science as the study of algorithms and problem-solving, highlighting the use of words to express mathematical concepts.
+
+Ultimately, I choose computer science and engineering as my foundation due to its pragmatic and logical problem-solving approach, emphasizing the breakdown of complex issues into manageable steps. I justify my preference for this field over education, applied mathematics, or statistics, as I believe it aligns better with my understanding of computer science.
+
+Acadmeic background
+
+During my academic journey, I initially faced mathematical challenges, having only completed algebra in high school and moving on to calculus in college. Nevertheless, I dedicated myself to self-study and tutoring to enhance my skills. I also ventured into visual communications and graphic design, specializing in web design and development, which kept me closely connected to the world of computers.
+
+In terms of my extracurricular activities and projects, I spent a significant amount of time working for a company that awarded me short-term contracts, ranging from six to 18 months, in various areas. I discovered that my strength lay in adapting to new challenges rather than completing entire projects from start to finish. This adaptability became a key attribute in my career.
+
+A pivotal experience was my role as a contractor for front-end web development application products at JetBlue Airways from August 16th, 2016, to November 1st, 2017. I was tasked with transforming their corporate website, which had been hastily assembled with a mix of Java, jQuery, and handlebars, into something cleaner and more functional. This involved a significant overhaul, as the existing site had reached its end of life.
+
+To tackle this project, I had to quickly learn TypeScript, which brought a more strictly typed programming paradigm to JavaScript, enhancing application security. This was challenging but rewarding work. However, it was complicated by the simultaneous release of Angular 2, a major update to the Angular framework, which also required TypeScript knowledge. This meant frequent changes and the need to adapt rapidly, which could be frustrating.
+
+Fortunately, we received assistance from a third-party team called Rangle, which eased the burden and helped us make progress. The experience involved frequent travel between New York and Canada, where we employed scrum sprints to break down tasks into manageable pieces. Despite the challenges, we successfully modularized the application, ensuring that code could be reused across different parts of the project—a fundamental principle in application development.
+
+In the end, the project reached its conclusion, and I left the team with a sense of accomplishment and valuable experience in managing complex development projects. This experience solidified my commitment to a career in computer science and engineering, where adaptability, problem-solving, and the ability to work with evolving technologies are highly valued.
+
+After concluding my contract with JetBlue Airways, I took some time to reflect on my future path. While I had considered the possibility of working as a software developer in another country, I realized that my past experiences had left me feeling unfulfilled. I had been working diligently but felt as if I wasn't progressing as I had hoped.
+
+This reflection led me to make the decision to return to school and pursue a master's degree in programming or computer science. I sought a more substantial, fulfilling direction for my career—one that aligned with my passion for web design, web programming, and software development.
+
+In my academic journey, I learned that continuous learning and adaptability were essential in the field of computer science. I embraced the idea that making mistakes and iterating were integral parts of problem-solving. My approach to tackling complex issues involved breaking them down into smaller, manageable components and repeating the process until a satisfactory solution emerged. Recursively solving problems and sharing knowledge with a team were strategies I valued.
+
+Subsequently, I took on a project at Bank of America in Maryland around May of 2018. The project's objective was to leverage Angular 2, a prominent framework at the time, to develop a suite of applications. These applications aimed to facilitate room bookings for traders within the organization's office. The project involved integrating data from Active Directory, managing room bookings, and ensuring users could book only one room at a time.
+
+Working in a bank presented unique challenges due to strict security protocols and slow data access, which could be frustrating. Despite the challenges, I collaborated with my team to overcome obstacles, even when working with remote teams located outside the country. Late nights were common, but I was dedicated to finding solutions.
+
+However, as I progressed in the project, I realized that this work environment wasn't aligned with my long-term career goals. I missed the autonomy and sense of ownership I had experienced at JetBlue Airways. I understood that to pursue my vision, I would need to build my own business, allowing me to shape my career path according to my aspirations.
+
+In conclusion, my experiences in the field of computer science and engineering have led me to seek a career where I can take charge of my professional journey and create my own opportunities. Building my own business and pursuing projects that align with my vision are the next steps on my path in the world of web design, web programming, and software development.
+
+influential experience 1:
+"Influential Mentorship and Evolving Career Goals"
+
+One of the influential figures in my academic journey was Professor Richard McKenna. He played a pivotal role in guiding me through the challenges I faced while deciding on my educational path, including the choice of schools and coursework. Professor McKenna had a remarkable ability to explain complex concepts, such as code checking and building programs from scratch, in a clear and comprehensible manner.
+
+However, it's worth noting that during my time in Professor McKenna's classes, I wasn't initially inclined toward pursuing graduate school. My primary focus at the time was obtaining a bachelor's degree and securing a position with a major tech company. Yet, as I continued my career as a software developer for various companies, I came to realize that being a programmer alone wasn't enough. A deeper understanding of the underlying principles and concepts behind applications and projects was crucial before even writing a single line of code.
+
+I discovered that the coding aspect, while important, was just one part of the puzzle. The real challenge lay in conceptualizing and planning the project effectively. This shift in perspective has driven me to pursue a more profound understanding of the field, motivating me to delve deeper into the intricacies of software development and computer science.
+
+Influential Experience 2
+Incorporating Game Design principles into Real world solutions
+
+In a recent academic experience, I had the privilege of studying under Professor Scarlatos, who introduced a course centered on the foundational principles underlying game design. This course delved into the process, starting from the programming stage, through functional development, encompassing concepts like Rural Design, Play Lovecraft, Game Balancing, Social Game Interaction, Interaction Design, Visual and Audio Elements, tactile and digital components, and game design documentation. Throughout the semester, students were tasked with designing their own games.
+
+One valuable insight I gained from this course was the importance of beginning the game design process on paper through paper prototypes. I aim to incorporate this approach into my own project, which is geared towards creating an application to help tackle real-world problems, much like Minecraft allows users to construct virtual worlds. This unique approach offers an avenue for addressing societal issues that often go unnoticed. Games serve as a means for individuals to express themselves and hone problem-solving skills, even through multiple failures, which, contrary to conventional belief, are valuable learning experiences.
+
+Influential Experience 3
+Navgiating Jetblue's WEb redesign: A scrum-based approach to successfully
+
+In 2016-2017, during my tenure as a contract software developer at JetBlue, I was part of a collaborative team consisting of 7 to 8 members, some of whom were offshore. Our primary mission was to redesign JetBlue.com and develop smaller web applications in tandem. The foundation for these new tools was to be built upon the revamped JetBlue.com.
+
+One of the noteworthy applications we worked on was intended for flight attendants to relay information to passengers, including details on connecting flights and cancellations. This tool was deployed on devices like iPads, iPhones, or tablets connected to in-flight Wi-Fi, transported on food carts. While we initially faced challenges due to the flight attendants' changing requirements, we employed paper prototyping to create a visual representation of the solution, which facilitated productive discussions.
+
+Ultimately, this approach allowed us to transition from a prototype to a production-ready application in about six or seven months. This success was also attributable to the Scrum methodology we adopted, breaking down tasks into weekly or bi-weekly sprints, with team members taking ownership of their assignments. Daily meetings addressed any blockers transparently, ensuring everyone's input was valued.
+
+I found this collaborative and transparent approach personally rewarding and it has inspired me to pursue projects with a similar mindset.
+
+**Title: "The Science of Game-Changing Impact: How Computer Science PhDs are Shaping Social Change Through Games"**
+
+In the realm of academia, particularly among those with scientific knowledge, the pursuit of a PhD in computer science is often associated with cutting-edge research, technical innovation, and algorithmic mastery. However, what if we told you that the world of gaming and social change is a space where these academic pursuits converge in truly transformative ways?
+
+
+**1. The Power of Game-Based Learning**
+
+Imagine if the hours spent gaming could be harnessed for education and awareness. Enter the realm of game-based learning, a domain where computer science PhDs are pioneering the use of interactive and immersive games to facilitate deeper understanding. From teaching complex mathematical concepts to imparting critical knowledge about social issues, games offer a powerful tool for educational transformation.
+
+**2. Designing Games with Social Impact in Mind**
+
+Games are no longer just entertainment; they're a canvas for conveying important messages. Computer science researchers are delving into the realm of socially conscious game design. These games tackle complex issues like climate change, social justice, and mental health. By leveraging their technical skills, these PhD candidates are creating games that not only entertain but also provoke thought and inspire change.
+
+**3. Virtual Reality (VR) and Augmented Reality (AR)**
+
+For those with an interest in pushing the boundaries of technology, VR and AR present exciting opportunities. Computer scientists are developing immersive experiences that transport users to disaster-stricken areas or historical events, fostering empathy and understanding. These technologies have the potential to reshape how we perceive and respond to global challenges.
+
+**4. Data Science for Social Good**
+
+Harnessing data for social change is a hallmark of scientific knowledge. Computer scientists are applying their analytical prowess to track and combat issues like poverty, hunger, and disease. Games serve as engaging platforms to educate the public on these global challenges and mobilize collective action.
+
+**5. Building Inclusive Virtual Communities**
+
+The gaming world is diverse and global, but it's not without its challenges. Computer science PhDs are at the forefront of creating inclusive and safe gaming environments that promote social cohesion and tolerance. These virtual communities can lead to real-world activism and awareness.
+
+**6. Advocacy Through Game Streaming**
+
+The rise of game streaming platforms has created a unique space for advocacy. Researchers with gaming skills can build a following and then leverage that platform to raise awareness about social issues, fundraise for causes, or even organize charity events.
+
+**7. Collaboration Across Disciplines**
+
+A PhD in computer science doesn't operate in isolation. Collaborations with experts in psychology, sociology, and public policy can lead to the creation of games and technologies that drive meaningful social change.
+
+In conclusion, computer science PhD candidates and academics possess the unique skills and knowledge to drive profound social change through the world of gaming. The fusion of technical expertise and a passion for impact is reshaping the landscape of both computer science research and the gaming industry. As scientific minds continue to explore this frontier of innovation and advocacy, the potential for positive global change is boundless. The world is waiting for the next wave of game-changing impact. I want to be apart of that social change in hopes to also inspire the future.
+
+I envision my future career as deeply rooted in computer science and the development of serious games. My research focuses on harnessing the potential of games to help people solve real-world problems, much like traditional video games have offered relaxation and entertainment. I draw inspiration from organizations like "Block by Block," which uses games like Minecraft to engage communities in designing real-world solutions through visual representations.
+
+My passion lies in the first principles of problem-solving, emphasizing the importance of breaking down complex challenges into manageable pieces. I aspire to lay this foundation for my research, creating games that guide individuals in problem-solving through incremental steps rather than attempting to address issues in one sweeping gesture.
+
+My primary career expectation is to become an authority in my community, capable of guiding and influencing people based on my expertise. I recognize the significance of establishing authority through research and publications, especially when advocating for innovative approaches to problem-solving. I acknowledge the challenges in building games from scratch but draw parallels with my previous software development experience.
+
+I intend to employ a paper prototype approach to game design, utilizing physical representations and labels to conceptualize and dissect game elements. I express a willingness to either develop my own games or work within established companies in the gaming industry.
+
+My belief in the versatility of a computer science degree and its applicability across various industries underscores my commitment to using technology to address societal issues. Urbanization, in particular, is a problem I wish to tackle through the unifying power of gaming, aiming to find solutions to challenges like displacement and homelessness.
+
+ I see my future career as an opportunity to leverage my computer science skills to create serious games that foster social change and bring communities together. I aspire to break down complex problems into manageable steps, build visual models, and ultimately contribute to making the world a better place through the transformative potential of gaming.
