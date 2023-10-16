@@ -1,0 +1,33 @@
+
+1. **High School Graduation**:
+   - Summer of 2000: Graduated from Central Islip High School with a high school diploma.
+
+2. **Undergraduate Activities**:
+   - 2000 - 2001: Enrolled at Suffolk Community College with the goal of improving grades for acceptance into Stony Brook University's degree science program.
+   - 2001 - 2005: Transferred to Briarcliffe College, majoring in visual communications or graphic design, and earned a Bachelor of Fine Arts (BFA).
+
+3. **Professional Development**:
+   - 2005: Took a job as a tech support representative at Cable Vision Systems.
+   - 2008 - 2015: Worked at the Long Island Disability Service Office, gaining experience in working with people with disabilities.
+   - Completed certifications to pursue a nursing career but decided to return to computer science in 2008.
+
+4. **Graduate Activities**:
+   - 2008 - 2009: Enrolled at Stony Brook University for a degree in computer science with a specialization in technological system management.
+   - Studied various subjects, including information systems, engineering management, game design, and programming languages.
+
+5. **Internships and Software Development Roles**:
+   - 2010: Worked as a website manager, utilizing HTML5, CSS, and JavaScript.
+   - 2011 - 2012: Interned at the National Association Professional Women (NAPW), gaining experience in coding, especially with ColdFusion and WordPress.
+   - 2013: Continued working at LIDDSL and interned at Brookhaven National Laboratory as a research assistant.
+   - 2014 - 2015: Worked as a software developer at Cable Vision Systems on front-end applications.
+   - Took a position as a software developer consultant at TD Ameritrade, focusing on Java effects.
+
+6. **Web Development Roles**:
+   - Worked with JetBlue Airways to redesign JetBlue.com using TypeScript and Angular 2.
+   - Joined Bank of America in 2018 to help a team adapt to new technology.
+   - Worked with SiriusXM in 2019 on web application development.
+
+7. - Worked as a software engineer consultant for Twitter, mainly in the training of becoming a Site Reliability Engineer
+   - Worked on developing security measures and perform vulnerability assessments for twitter.com
+   - communicated technological insights to teammates and document recommendations and reports under software source code repositories
+
